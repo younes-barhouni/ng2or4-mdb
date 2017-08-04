@@ -1,0 +1,23 @@
+{
+  "name": "ng2or4-mdb",
+  "version": "0.0.1",
+  "description": "Angular wrapper for material design and bootstrap",
+  "repository": "https://github.com/younes-barhouni/ng2or4-mdb",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "author": "Younes Barhouni",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/core": "4.2.2",
+    "@angular/common": "4.2.2",
+    "rxjs": "5.0.1",
+    "zone.js": "0.8.12",
+    "bootstrap-material-design": "^0.5.10"
+  },
+  "devDependencies": {
+    "typescript": "2.2.1",
+    "typings": "^1.5.0"
+  }
+}
